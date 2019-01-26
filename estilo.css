@@ -1,0 +1,49 @@
+/* Definindo estilos pelo CSS */
+
+ /*define os padões de estilo dos paragrafos*/
+
+ /* p{
+    font-family: Helvetica;
+    color: rgb(30, 05, 124);
+    text-align: center;
+    font-size: 24x;
+    font-style: italic;
+} */
+
+/* Para referenciar Itens */
+#paragrafo2{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(30, 124, 30);
+    text-align: center;
+    font-size: 25px;
+    font-style: normal;
+
+}
+
+/* Para referenciar classes */
+.pazul{
+    font-family: monospace;
+    color: rgb(30, 124, 30);
+    /* text-align: center; */
+    font-size: 24px;
+    font-style: normal;
+    text-align: center;
+}
+
+.pnegrito{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.centralizado{
+    text-align: center;
+}
+
+img{
+    align-items: center;
+}
+form{
+    object-position: center;
+}
